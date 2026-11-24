@@ -9,8 +9,8 @@ import os
 
 ENTRY = (
     "My Monday standup lasted 47 minutes to decide nothing, my inbox hit "
-    "214 unread, and the bus home took longer than the meeting itself. "
-    "Two stars, would not Monday again."
+    "214 unread, and the bus home took 53 minutes, longer than the meeting "
+    "itself. Two stars, would not Monday again."
 )
 
 
